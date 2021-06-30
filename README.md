@@ -20,14 +20,12 @@ Welcome to my profile</h1>
 
 
 <h3 align="center">Formerly a student but passionate in programming</h3>
-<p align="center"> 
-	<img align="center" src="https://img.shields.io/badge/Profile%20Views-235-blue">
-<img align="center" src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-8372%20lines%20of%20code-blue">
 
-</p>
+
+
 <h2 align="center">Personal Details</h2>
 <p align="center">
-1. Learning programming languages: HTML, CSS, JavaScript, C, Python, Bash/Shell
+1. Learning programming languages: HTML, C, Python.
  
 
 
@@ -39,7 +37,7 @@ Welcome to my profile</h1>
 
 6. Experienced in: Phone Rooting, Custom Rom/Recovery, Install OS in PC.
 
-7. My repositories: <a href= "https://github.com/ishabhthakur?tab=repositories" target="blank"> KasRepositories</a>
+7. My repositories: <a href= "https://github.com/ishabhthakur?tab=repositories" target="blank"> IshabhThakurRepositories</a>
 </p>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
