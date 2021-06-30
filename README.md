@@ -27,17 +27,15 @@ Welcome to my profile</h1>
 <p align="center">
 1. Learning programming languages: HTML, C, Python.
  
+2. Hobby: Play games.
 
+3. Loves to: Create COMPUTER VISION APPLICATION.
 
-3. Hobby: Reading books, Listen music, Play games.
+4. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
 
-4. Loves to: Create Ebooks, Ringtones, Fake Screenshots, Memes, Meme Templates.
+5. Experienced in: computer networks.
 
-5. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
-
-6. Experienced in: Phone Rooting, Custom Rom/Recovery, Install OS in PC.
-
-7. My repositories: <a href= "https://github.com/ishabhthakur?tab=repositories" target="blank"> IshabhThakurRepositories</a>
+6. My repositories: <a href= "https://github.com/ishabhthakur?tab=repositories" target="blank"> IshabhThakurRepositories</a>
 </p>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
