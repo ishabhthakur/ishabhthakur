@@ -1,4 +1,5 @@
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ishabhthakur)
 
 <!--
@@ -15,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi<img align="right" alt="gif" width="200px" src="https://user-images.githubusercontent.com/82073000/124123344-da744500-da94-11eb-9a9a-848665cc322f.gif" />, visitor, I'm Ishabh Thakur..!!
+<h1 align="center">
+ <img align="left" alt="gif" width="200px" src="https://user-images.githubusercontent.com/82073000/124126667-8703f600-da98-11eb-9670-02b994d50968.gif" />
+ Hi..!<img align="right" alt="gif" width="200px" src="https://user-images.githubusercontent.com/82073000/124123344-da744500-da94-11eb-9a9a-848665cc322f.gif" /> visitor, I'm Ishabh Thakur..!
  <br> Welcome to my profile</h1>
 <p align="center">
 
