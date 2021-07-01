@@ -60,6 +60,9 @@ Welcome to my profile</h1>
 <br />
 
  # Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/82073000/124116037-1c4cbd80-da8c-11eb-8177-9d295cdde17c.jpg" />
+
+ <img align="left" alt="C-Language" width="26px" src="https://user-images.githubusercontent.com/82073000/124116844-10153000-da8d-11eb-9bbc-08f4ae2a1a3b.jpg" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
