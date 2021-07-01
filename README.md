@@ -1,3 +1,4 @@
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ishabhthakur)
 
 <!--
@@ -14,17 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, visitor, I'm Ishabh Thakur..!!
-Welcome to my profile</h1>
+<h1 align="center">Hi<img align="right" alt="gif" width="200px" src="https://user-images.githubusercontent.com/82073000/124123344-da744500-da94-11eb-9a9a-848665cc322f.gif" />, visitor, I'm Ishabh Thakur..!!
+ <br> Welcome to my profile</h1>
 <p align="center">
 
 
-<h3 align="center">Formerly a student but passionate in programming</h3>
+<h3 align="center">Formerly a student but passionate in programming...</h3>
 
 
-
+<br>
 <h2 align="center">Personal Details</h2>
 <p align="center">
+ 
+ 
 1. Learning programming languages: HTML, C, Python.
  
 2. Hobby: Play games.
