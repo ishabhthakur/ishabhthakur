@@ -41,8 +41,9 @@ Welcome to my profile</h1>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhthakur&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishabhthakur&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+ 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishabhthakur&theme=dracula">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ishabhthakur&theme=dracula&no-frame=false&column=3&margin-w=15">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ishabhthakur&theme=dracula&no-frame=false&column=3&margin-w=15&margin-h=15">
 
 
 </p>
