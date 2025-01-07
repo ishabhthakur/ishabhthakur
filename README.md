@@ -14,7 +14,7 @@
 [![GitHub ishabhthakur](https://img.shields.io/github/followers/ishabhthakur?label=follow&style=social)](https://github.com/ishabhthakur)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,I'm 2024 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
 
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
@@ -36,13 +36,7 @@
 -----  
 
 
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Competition List](https://github.com/ishabhthakur/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/ishabhthakur/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [To-Do-List](https://github.com/ishabhthakur/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
+ 
 | [Portfolio Collection](https://github.com/ishabhthakur/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
 
 
