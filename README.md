@@ -1,92 +1,113 @@
+### Hello world, I'm Avinash  👋 
 
+-----
 
-![](https://visitor-badge.glitch.me/badge?page_id=ishabhthakur)
-
-<!--
-**ishabhthakur/ishabhthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
- <img align="left" alt="gif" width="200px" src="https://user-images.githubusercontent.com/82073000/124126667-8703f600-da98-11eb-9670-02b994d50968.gif" />
- Hi..!<img align="right" alt="gif" width="200px" src="https://user-images.githubusercontent.com/82073000/124123344-da744500-da94-11eb-9a9a-848665cc322f.gif" /> visitor, I'm Ishabh Thakur..!
- <br> Welcome to my profile</h1>
 <p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
+
+![profile count](https://komarev.com/ghpvc/?username=ishabhthakur&color=red)&nbsp;
+[![GitHub ishabhthakur](https://img.shields.io/github/followers/ishabhthakur?label=follow&style=social)](https://github.com/ishabhthakur)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+
+🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
+✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
+
+### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+
+-----
+### 📫 &nbsp; How to reach me:
 
 
-<h3 align="center">Formerly a student but passionate in programming...</h3>
+
+<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/avinashsingh020/"><img src="https://img.shields.io/badge/-@avinashsingh020-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:ishabhthakur@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hackerrank.com/ishabhthakur"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/ishabhthakur/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+
+-----  
 
 
+<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+
+| Repository Name      | Description | 
+| :---:        |    :----   |  
+| [Competition List](https://github.com/ishabhthakur/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
+| [Free courses with certificate](https://github.com/ishabhthakur/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
+| [To-Do-List](https://github.com/ishabhthakur/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
+| [Portfolio Collection](https://github.com/ishabhthakur/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
+
+
+
+
+
+<h1 align="center">Projects</h1>
+
+</div>
+<div  align="center">
+ 
+<a href="https://ishabhthakur.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ishabhthakur&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://ishabhthakur.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ishabhthakur&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://ishabhthakur.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ishabhthakur&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
+<a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ishabhthakur&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>
+
+</div>
+
+
+
+### Languages and Tools
+
+<p>
+ 
+ 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+ 
+ 
+ -----
+  
+</p>
+
+
+
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ishabhthakur&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+ 
+ 
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishabhthakur&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhthakur&layout=compact&theme=dark" width="46%" />
 <br>
-<h2 align="center">Personal Details</h2>
-<p align="center">
- 
- 
-1. Learning programming languages: HTML, C, Python.
- 
-2. Hobby: Play games.
 
-3. Loves to: Create COMPUTER VISION APPLICATION.
 
-4. Collections of : APK, ISO, MP3, EXE, JPEG, PDF.
 
-5. Experienced in: computer networks.
 
-6. My repositories: <a href= "https://github.com/ishabhthakur?tab=repositories" target="blank"> IshabhThakurRepositories</a>
-</p>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
- 
-# Languages 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishabhthakur&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishabhthakur&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
- 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishabhthakur&theme=dracula">
- 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ishabhthakur&theme=dracula&no-frame=false&column=3&margin-w=15&margin-h=15">
- 
- 
-### Connect with me:
-
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<br />
-
- # Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/82073000/124116037-1c4cbd80-da8c-11eb-8177-9d295cdde17c.jpg" />
-
- <img align="left" alt="C-Language" width="26px" src="https://user-images.githubusercontent.com/82073000/124116844-10153000-da8d-11eb-9bbc-08f4ae2a1a3b.jpg" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-
-</p>
